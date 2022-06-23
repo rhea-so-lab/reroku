@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "Launch Program",
+      "program": "${workspaceFolder}/src/main.ts",
+      "preLaunchTask": "tsc: build - tsconfig.json",
+      "request": "launch",
+      "console": "integratedTerminal",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "node"
+    }
+  ]
+}
