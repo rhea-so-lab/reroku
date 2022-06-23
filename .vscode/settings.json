@@ -5,9 +5,6 @@
     ".eslint*": true,
     ".nvmrc": true,
     ".prettierrc": true,
-    "tsconfig.json": true,
-    "tsconfig.build.json": true,
-    "package-lock.json": true,
-    ".gitignore": true
+    "package-lock.json": true
   }
 }
