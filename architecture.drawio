@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="CoXwx-jnoz6hDn4408vR" name="Page-1">
+        <mxGraphModel dx="930" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="520" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="400" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="490" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Git Repository" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Discord Bot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="690" y="400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Build &amp;amp; Run" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="740" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Bore Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="410" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
